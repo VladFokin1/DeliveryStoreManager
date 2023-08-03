@@ -1,0 +1,14 @@
+﻿<Window x:Class="Delivery.AddCurierWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Delivery"
+        mc:Ignorable="d"
+        Title="Добавить курьера" Height="202" Width="393" ResizeMode="NoResize" Background="#FFE6E0FF">
+    <Grid Margin="106,0,482,398">
+        <Label Margin="-88,10,-100,-52" FontSize="18">Добавить курьера</Label>
+        <TextBox x:Name="courierName_textbox" Margin="-88,57,-265,-100" MaxLines="1" FontSize="30" ></TextBox>
+        <Button x:Name="add_btn" Margin="8,105,-170,-141" Click="AddCurier_click" BorderBrush="#FFAFAFAF" Foreground="Black" Background="#FFBBB6FD">Добавить</Button>
+    </Grid>
+</Window>

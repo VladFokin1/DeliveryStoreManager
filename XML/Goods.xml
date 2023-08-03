@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<goods>
+  <good id="1">
+    <name>Яблоки</name>
+    <price per="кг">65</price>
+  </good>
+  <good id="2">
+    <name>Персики</name>
+    <price per="кг">180</price>
+  </good>
+  <good id="3">
+    <name>Хлеб</name>
+    <price per="шт">40</price>
+  </good>
+  <good id="4">
+    <name>Грейпфрут</name>
+    <price per="кг">90</price>
+  </good>
+  <good id="5">
+    <name>Говядина тушеная</name>
+    <price per="шт">250</price>
+  </good>
+  <good id="6">
+    <name>Рис</name>
+    <price per="шт">80</price>
+  </good>
+  <good id="7">
+    <name>Печенье овсяное</name>
+    <price per="шт">85</price>
+  </good>
+  <good id="8">
+    <name>Макароны</name>
+    <price per="шт">60</price>
+  </good>
+</goods>

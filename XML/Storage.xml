@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<items>
+  <item>
+    <goodId>1</goodId>
+    <count>988</count>
+  </item>
+  <item>
+    <goodId>2</goodId>
+    <count>983</count>
+  </item>
+  <item>
+    <goodId>3</goodId>
+    <count>975</count>
+  </item>
+  <item>
+    <goodId>4</goodId>
+    <count>979</count>
+  </item>
+  <item>
+    <goodId>5</goodId>
+    <count>978</count>
+  </item>
+  <item>
+    <goodId>6</goodId>
+    <count>984</count>
+  </item>
+  <item>
+    <goodId>7</goodId>
+    <count>990</count>
+  </item>
+  <item>
+    <goodId>8</goodId>
+    <count>993</count>
+  </item>
+</items>
